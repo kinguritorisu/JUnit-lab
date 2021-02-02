@@ -12,3 +12,8 @@ The workspace contains two folders by default, where:
 ## Dependency Management
 
 The `JAVA DEPENDENCIES` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-pack/blob/master/release-notes/v0.9.0.md#work-with-jar-files-directly).
+
+
+## Tests Screenshot
+
+![alt text](https://github.com/kinguritorisu/JUnit-lab/blob/master/raw/Screenshot%202021-02-02%20at%2022.19.07.png)
